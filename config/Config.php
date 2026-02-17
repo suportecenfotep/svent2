@@ -2,10 +2,10 @@
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
-define('DB_HOSTNAME', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASSWORD', '');
-define('DB_NAME', 'seventwo');
+define('DB_HOSTNAME', 'bi3avg0a9x2dczdrsvq3-mysql.services.clever-cloud.com');
+define('DB_USER', 'unayc21wzthdfmlc');
+define('DB_PASSWORD', 'Tb6yhOqrEzaLREO4SqJu');
+define('DB_NAME', 'bi3avg0a9x2dczdrsvq3');
 define('UPLOAD_DIR', '../uploads/');
 // define('DB_PASSWORD', 'GPc|Kqe&2G@v');
 
